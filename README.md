@@ -1,5 +1,4 @@
 # cgme--and-tcgme-based-method
-hybcgme_test2 can generate 
-hybcgme_testinner can generate the 
-hybcgme_test2 and hybcgme_testinner needs regu and RestoreTools which are from P.C.Hanson, I just upload the 
-regu, because RestoreTools too large to upload. Please download RestoreTools from the homepage of P.C.Hanson().
+hybcgme_test2 and hybcgme_testinner can produce all the tables and figures in the paper.
+Because hybcgme_test2 and hybcgme_testinner use the test problems from regu and RestoreTools which are from P.C.Hanson,
+and regu has been uploaded, RestoreTools should be downloaded first. RestoreTools too large to upload. 
