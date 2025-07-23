@@ -24,6 +24,10 @@ path([directory, '/RestoreTools/IterativeMethods'], path)
 % Toeplitz
 path([directory, '/toeplitz'], path)
 
+% krylov_schur
+path([directory, '/ks_svd'], path)
+
+
 close all
 clear all
 clc
